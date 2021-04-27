@@ -4,7 +4,7 @@
 	"description": "A module to make rolling in SWADE easier for experienced players",
 	"minimumCoreVersion": "0.7.4",
 	"compatibleCoreVersion": "0.7.9",
-	"version": "2.26",
+	"version": "2.26.1",
 	"author": "Javier Rivera",
 	"languages": [
 		{
@@ -38,14 +38,14 @@
 	"scripts": ["./scripts/settings-extender.js"],
 	"styles": ["./css/brsw-styles.css"],
 	"packs": [],
-	"url": "https://github.com/javierriveracastro/betteroll-swade/tree/version_2",
-	"manifest": "https://raw.githubusercontent.com/javierriveracastro/betteroll-swade/version_2/betterrolls-swade2/module.json",
-	"download": "https://github.com/javierriveracastro/betteroll-swade/blob/version_2/betterrolls-swade2.zip?raw=true",
+	"url": "https://github.com/zekim/betteroll-swade/tree/version_2",
+	"manifest": "https://raw.githubusercontent.com/zekim/betteroll-swade/version_2/betterrolls-swade2/module.json",
+	"download": "https://github.com/zekim/betteroll-swade/blob/version_2/betterrolls-swade2.zip?raw=true",
 	"manifestPlusVersion": "1.1.0",
 	"media": [
 	  {
 		"type": "screenshot",
-		"url": "https://raw.githubusercontent.com/javierriveracastro/betteroll-swade/version_2/docs/Weapon_Card_Damage_v1-119.jpg"
+		"url": "https://raw.githubusercontent.com/zekim/betteroll-swade/version_2/docs/Weapon_Card_Damage_v1-119.jpg"
 	  }
 	],
 	"conflicts": [
